@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c58e428c88cbc293210ce1ad8469fd1d361e179a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4a448c7ac529ab41f6d43f7151cfe5c798e00375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_643d51d5869aa071abcead2d1074462ad42a5c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_db56e871593d01363a4cf126707025968ca81ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_69326931455dcde16a6d52926b80cfb1ad7e1e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_79df519dd9b7907a63f615ed5a39eb9503304070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a2c64f7a203e09036b5754a6abf9465f09b3ebad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_cb440c1d173032b1235264f661ed078ac989e0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_788416876d0320f667d9198e1d512a5d91801b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e186b73e9fb6df931f778e4083fc15fa9126dbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9bc6ba71a6e3d0bbc4b96e5bfebb025bbe7de197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_830f39a3d09cb3d5a9dd54f64c8b3e2f6a983a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bef5d6fa18e69bebf2226d9cac324221b3f8f86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_47d4c3a6c9d2246c543efa6e8e0409561818a436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Kartik\Desktop\LG\AndroidcourseMaterials\Gravel-shooters\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0ea5d4822d88a34ea1f95ba669c9d636330e4b96.jar" />
+    </item>
+
+</items>

@@ -1,4 +1,0 @@
-#Mon Feb 17 19:54:13 MST 2020
-base.0=C\:\\Users\\Kartik\\Desktop\\LG\\AndroidcourseMaterials\\Gravel-shooters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Kartik\\Desktop\\LG\\AndroidcourseMaterials\\Gravel-shooters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

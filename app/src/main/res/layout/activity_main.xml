@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/cloud"
+    android:textAlignment="center"
+    tools:context="com.example.gravel_shooters.MainActivity">
+
+
+    <Button
+        android:text="Camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="36dp"
+        android:id="@+id/button" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome To Gravel Shooters 3D!"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:textColor="#000000"
+        android:textAllCaps="true"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="42dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/capturedImage"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/button" />
+
+
+</RelativeLayout>

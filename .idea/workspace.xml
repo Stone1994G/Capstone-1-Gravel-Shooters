@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f4d337f-847d-4494-a659-6af872df7121" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
@@ -76,7 +77,11 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
+<<<<<<< HEAD
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+=======
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
             </state>
           </provider>
         </entry>
@@ -86,6 +91,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>com.example.grave</find>
+      <find>.idea/workspace.xml</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,12 +103,18 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gravel_shooters/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="952" />
     <option name="width" value="975" />
+=======
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -110,10 +122,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gravel_shooters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Capstone-1-Gravel-Shooters" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gravel_shooters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Capstone-1-Gravel-Shooters" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gravel_shooters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Capstone-1-Gravel-Shooters" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,11 +250,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="635" y="0" width="650" height="698" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4947644" visible="true" weight="0.16949153" />
       <window_info id="Structure" order="2" sideWeight="0.5052356" side_tool="true" visible="true" weight="0.16949153" />
+=======
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4959217" visible="true" weight="0.3369803" />
+      <window_info id="Structure" order="2" sideWeight="0.5040783" side_tool="true" visible="true" weight="0.3369803" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
@@ -225,7 +274,11 @@
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32508835" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32932165" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32275712" />
@@ -247,6 +300,9 @@
           <caret line="143" column="19" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/rebase.bat">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gravel_shooters/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,7 +338,11 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
+<<<<<<< HEAD
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+=======
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+>>>>>>> 85e7190ae0a2d522073719b9c6da6eece7841ae7
         </state>
       </provider>
     </entry>
